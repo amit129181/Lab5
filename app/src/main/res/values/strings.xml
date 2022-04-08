@@ -1,17 +1,18 @@
 <resources>
     <string name="app_name">Shopping List</string>
-    <string name="activity2_name">Items</string>
-    <string name="cheese">Cheese</string>
-    <string name="rice">Rice</string>
-    <string name="apples">Apples</string>
-    <string name="bread">Bread</string>
-    <string name="oranges">Oranges</string>
-    <string name="shampoo">Shampoo</string>
-    <string name="dog_food">Dog Food</string>
-    <string name="washing_powder">Washing Powder</string>
-    <string name="sugar">Sugar</string>
-    <string name="salt">Salt</string>
+    <string name="activity2_name">Gadgets</string>
+    <string name="samsung_s22">Samsung S22</string>
+    <string name="samsung_s22_ultra">Samsung S22 Ultra</string>
+    <string name="macbook_pro">MacBook Pro</string>
+    <string name="macbook_air">MacBook Air</string>
+    <string name="oppo_f11_pro">Oppo F11 pro</string>
+    <string name="mi_10_pro">Mi 10 Pro</string>
+    <string name="asus_vivobook">Asus VivoBook</string>
+    <string name="iphone_13_pro">iPhone 13 pro</string>
+    <string name="iphone_13_pro_max">iPhone 13 Pro Max</string>
+    <string name="asus_zenbook">Asus Zenbook</string>
     <string name="add_item">Add Item</string>
-    <string name="location">Kathmandu Tinkune</string>
     <string name="get_location">Get Location</string>
+    <string name="location">Kathmandu</string>
+
 </resources>

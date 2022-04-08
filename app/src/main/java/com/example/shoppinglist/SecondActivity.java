@@ -25,7 +25,7 @@ public class SecondActivity extends AppCompatActivity {
     }
 
     public void addItems(View view) {
-        String reply = "Cheese";
+        String reply = "Samsung S22";
         Intent replyIntent = new Intent();
         replyIntent.putExtra(EXTRA_REPLY, reply);
         setResult(RESULT_OK, replyIntent);
@@ -34,7 +34,7 @@ public class SecondActivity extends AppCompatActivity {
     }
 
     public void add2(View view) {
-        String reply = "Rice";
+        String reply = "Samsung S22 Ultra";
         Intent replyIntent = new Intent();
         replyIntent.putExtra(EXTRA_REPLY, reply);
         setResult(RESULT_OK, replyIntent);
@@ -43,7 +43,7 @@ public class SecondActivity extends AppCompatActivity {
     }
 
     public void add3(View view) {
-        String reply = "Apples";
+        String reply = "MacBook Pro";
         Intent replyIntent = new Intent();
         replyIntent.putExtra(EXTRA_REPLY, reply);
         setResult(RESULT_OK, replyIntent);
@@ -52,7 +52,7 @@ public class SecondActivity extends AppCompatActivity {
     }
 
     public void add4(View view) {
-        String reply = "Bread";
+        String reply = "MacBook Air";
         Intent replyIntent = new Intent();
         replyIntent.putExtra(EXTRA_REPLY, reply);
         setResult(RESULT_OK, replyIntent);
@@ -61,7 +61,7 @@ public class SecondActivity extends AppCompatActivity {
     }
 
     public void add5(View view) {
-        String reply = "Oranges";
+        String reply = "Oppo Find 11 Pro";
         Intent replyIntent = new Intent();
         replyIntent.putExtra(EXTRA_REPLY, reply);
         setResult(RESULT_OK, replyIntent);
@@ -70,7 +70,7 @@ public class SecondActivity extends AppCompatActivity {
     }
 
     public void add6(View view) {
-        String reply = "Shampoo";
+        String reply = "Mi 10 Pro";
         Intent replyIntent = new Intent();
         replyIntent.putExtra(EXTRA_REPLY, reply);
         setResult(RESULT_OK, replyIntent);
@@ -79,7 +79,7 @@ public class SecondActivity extends AppCompatActivity {
     }
 
     public void add7(View view) {
-        String reply = "Dog Food";
+        String reply = "Asus VivoBook";
         Intent replyIntent = new Intent();
         replyIntent.putExtra(EXTRA_REPLY, reply);
         setResult(RESULT_OK, replyIntent);
@@ -88,7 +88,7 @@ public class SecondActivity extends AppCompatActivity {
     }
 
     public void add8(View view) {
-        String reply = "Washing Powder";
+        String reply = "iPhone 13 Pro";
         Intent replyIntent = new Intent();
         replyIntent.putExtra(EXTRA_REPLY, reply);
         setResult(RESULT_OK, replyIntent);
@@ -97,7 +97,7 @@ public class SecondActivity extends AppCompatActivity {
     }
 
     public void add9(View view) {
-        String reply = "Sugar";
+        String reply = "iPhone 13 Pro Max";
         Intent replyIntent = new Intent();
         replyIntent.putExtra(EXTRA_REPLY, reply);
         setResult(RESULT_OK, replyIntent);
@@ -106,7 +106,7 @@ public class SecondActivity extends AppCompatActivity {
     }
 
     public void add10(View view) {
-        String reply = "Salt";
+        String reply = "Asus Zenbook";
         Intent replyIntent = new Intent();
         replyIntent.putExtra(EXTRA_REPLY, reply);
         setResult(RESULT_OK, replyIntent);
